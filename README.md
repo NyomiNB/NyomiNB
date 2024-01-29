@@ -20,7 +20,7 @@
        -  Adding images 
        -  Get and Set text methods
 
-    I'm eager to grow my skills and get hands-on experience with programming!
+I'm eager to grow my skills and get hands-on experience with programming!
  
 - 📫 How to reach me NyomiNB@gmail.com
 - Work experience: www.linkedin.com/in/
