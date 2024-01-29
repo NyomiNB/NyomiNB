@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NyomiBell, and I'm a programming student! 
+👋 Hi, I’m @NyomiBell, and I'm a programming student! 
 - 👩🏿‍🎓 I’m a junior in highschool
 - 🌱 I’m currently learning Java with Netbeans and am familiar with:
-    *Print Statements
+    * Print Statements
   
     * Nested if else statements
 
