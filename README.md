@@ -5,7 +5,7 @@
   
     * Nested if else statements
 
-    * While & Do While loops
+    * For, While, & Do While loops
  
     * Arrays and Array Lists
 
