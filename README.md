@@ -14,7 +14,8 @@
     * GUIs (Growing) 
 
 I'm eager to grow my skills and get hands-on experience with programming!
+Actively searching for an internship!
  
 - 📫 How to reach me NyomiNB@gmail.com
-- Work experience: www.linkedin.com/in/
+- Work experience: [www.linkedin.com/in/](https://www.linkedin.com/in/NyomiBell)https://www.linkedin.com/in/NyomiBell
  
