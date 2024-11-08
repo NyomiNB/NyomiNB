@@ -1,7 +1,7 @@
 👋 Hi, I’m @NyomiBell, and I'm a programming student! 
 - 👩🏿‍🎓 I’m a junior in highschool
 - 🌱 I’m currently learning:
--   ☕️ Java with Netbeans and am familiar with topics like:
+-   ☕️ Java with Netbeans and Android Studio and am familiar with topics like:
     * Encapsulation
   
     * Nested if else statements
@@ -13,7 +13,6 @@
     * Try/Catch Methods
       
     * GUIs
--   ☕️ Java in android studio
 - 💻 Websites using javascript, CSS, and HTML with Replit
     * Flex boxes
     * Event-oriented web design
