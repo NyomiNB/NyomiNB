@@ -1,5 +1,5 @@
 👋 Hi, I’m @NyomiBell, and I'm a programming student! 
-- 👩🏿‍🎓 I’m a junior in highschool
+- 👩🏿‍🎓 I’m a senior in highschool
 - 🌱 I’m currently learning:
  - ☕️ Java with Netbeans and Android Studio and am familiar with topics like:
     * Encapsulation
@@ -18,7 +18,8 @@
     * Event-oriented web design
     * Links to external pages
     * Persistant storage
- - Swift Storyboard
+ - 🐦‍🔥Swift Storyboard & SwiftUI
+
 
 I'm eager to grow my skills and get hands-on experience with programming!
 
