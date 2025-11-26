@@ -1,9 +1,8 @@
-👋 Hi, I’m @NyomiBell, and I'm a programming student! 
-- 👩🏿‍🎓 I’m a freshman software engineering student at Bowling Green State University  
-- 🌱 I’m currently learning:
+## 👋 Hi, I’m @NyomiBell, and I’m a first year college software engineering student 👩🏿‍🎓
+### 🌱 I’m currently learning:
   - ©️ C++ in Microsoft Visual Studio Code
   - 🎮 C# to create games in Unity
-- 🪴In the past I've explored:
+### 🪴In the past I've explored:
  - ☕️ Java with Netbeans and Android Studio and am familiar with topics like:
     * Encapsulation
     * Nested if else statements
