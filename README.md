@@ -1,6 +1,9 @@
 👋 Hi, I’m @NyomiBell, and I'm a programming student! 
-- 👩🏿‍🎓 I’m a rising freshman at Bowling Green State University  
+- 👩🏿‍🎓 I’m a freshman software engineering student at Bowling Green State University  
 - 🌱 I’m currently learning:
+  - ©️ C++ in Microsoft Visual Studio Code
+  - 🎮 C# to create games in Unity
+- 🪴In the past I've explored:
  - ☕️ Java with Netbeans and Android Studio and am familiar with topics like:
     * Encapsulation
     * Nested if else statements
@@ -8,7 +11,7 @@
     * Arrays and Array Lists
     * Try/Catch Methods      
     * GUIs
- - 💻 Websites using javascript, CSS, and HTML with Replit
+ - 💻 Coding websites using javascript, CSS, and HTML with Replit
     * Flex boxes
     * Event-oriented web design
     * Links to external pages
